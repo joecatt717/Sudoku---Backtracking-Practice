@@ -1,3 +1,6 @@
+#This does not always make solveable boards
+#More code needed to pass that parameter - board must be solveable, and it must be solveable in only one way...
+
 import random
 print(random.randint(1,9))
 
